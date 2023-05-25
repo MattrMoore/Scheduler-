@@ -10,3 +10,7 @@ SO THAT I can manage my time effectively
 
 ## Web Deployment Link 
 https://mattrmoore.github.io/Scheduler-/
+
+## Screenshots 
+![image](https://github.com/MattrMoore/Scheduler-/assets/114311012/6c948029-c5d6-41f7-b4d4-25f5654144eb)
+![image](https://github.com/MattrMoore/Scheduler-/assets/114311012/6efe5fd6-5d3f-4de7-b5f3-cc0f55f62eb1)
